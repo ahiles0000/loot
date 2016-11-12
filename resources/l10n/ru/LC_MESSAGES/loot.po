@@ -12,6 +12,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.11\n"
 
+#: src/gui/html/js/events.js:267
+msgid "You have not yet applied or cancelled your %s. Are you sure you want to quit?"
+msgstr "Вы еще не применили или отменили %s. Вы уверены, что хотите выйти?"
+
 #: src/gui/html/js/events.js:18
 msgid "Identifying conflicting plugins..."
 msgstr "Определение конфликтующих плагинов..."
