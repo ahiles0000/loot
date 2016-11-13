@@ -1095,7 +1095,7 @@ msgstr ""
 #~ msgid ""
 #~ "You have not yet applied or cancelled your %s. Are you sure you want to "
 #~ "quit?"
-#~ msgstr "Вы ещё не применили/отменили ваши %s. Действительно хотите выйти?"
+#~ msgstr "Вы ещё не применили/отменили %s. Действительно хотите выйти?"
 
 #~ msgid "unknown"
 #~ msgstr "неизвестно"
