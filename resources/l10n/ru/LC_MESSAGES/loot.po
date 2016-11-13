@@ -630,7 +630,7 @@ msgstr "Не удалось создать папку LOOT для игры. Де
 
 #: src/backend/game/game_cache.cpp:119
 msgid "You have not sorted your load order this session."
-msgstr "В этой сессии порядок загрузки ещё не отсортирован"
+msgstr "В этой сессии порядок загрузки ещё не отсортирован!"
 
 #: src/backend/game/load_order_handler.cpp:46
 msgid "Game path is not initialised."
